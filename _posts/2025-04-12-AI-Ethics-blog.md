@@ -5,6 +5,7 @@ date: 2025-04-12
 ---
 
 This is a blog post about the paper **"Reconciling privacy and accuracy in AI for Medical Imaging"** published in *Nature Machine Intelligence* in 2024.
+
 ---
 ## Introduction
 
