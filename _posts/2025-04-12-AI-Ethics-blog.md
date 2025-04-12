@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reconciling privacy and accuracy in AI for medical imaging"
+title: "Reconciling privacy and accuracy in AI for Medical Imaging"
 date: 2025-04-12
 ---
 
