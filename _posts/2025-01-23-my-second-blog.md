@@ -1,4 +1,4 @@
 ---
-title: "my-second-blog"
-date: 2025-01-23
+title: "What is a novel idea?"
+date: 2025-02-23
 ---
